@@ -47,5 +47,20 @@
       "Tower Up",
       "towerup-datos.json"
     ]
+  },
+  "carreritas": {
+    "version": "1.0.0",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/carreritas-v1.0.0/carreritas-1.0.0.tikijuego",
+    "sha256": "eb8929545e56e00fb7d89eae16baa59681309de08dcfecfc8f1f6c9b8422ce48",
+    "peso": 102373394,
+    "publicado": "2026-10-25T19:35:10.441Z",
+    "nombre": "Carreritas",
+    "texto": "Carrera de animales por países. Cada país corre con los regalos, los taps y los follows de su gente, con turbos, multiplicadores y tarjetas.",
+    "portada": "",
+    "datosViejos": [
+      "carreritas-interactivo",
+      "datos-carreritas.json"
+    ],
+    "ventana": "ancha"
   }
 }
