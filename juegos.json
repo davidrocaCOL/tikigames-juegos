@@ -33,5 +33,19 @@
       "Chess Battle",
       "chessbattle-datos.json"
     ]
+  },
+  "towerup": {
+    "version": "1.0.0",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/towerup-v1.0.0/towerup-1.0.0.tikijuego",
+    "sha256": "7a699cc47d7c09ec21fc8425c5261ee42572ef28ec65214cef50b0f7f181587d",
+    "peso": 1551134,
+    "publicado": "2026-10-25T02:26:34.272Z",
+    "nombre": "Tower Up",
+    "texto": "Dos torres de cubos, Rojo contra Azul. Regalos, taps y follows suman bloques a su equipo, y los regalos grandes atacan la torre rival.",
+    "portada": "",
+    "datosViejos": [
+      "Tower Up",
+      "towerup-datos.json"
+    ]
   }
 }
