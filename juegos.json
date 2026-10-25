@@ -82,5 +82,19 @@
     "nombre": "Octogol",
     "texto": "Ocho países en un octágono, cada uno con su cañón y su portería. Los regalos disparan balones, escudos, tornados y meteoritos; gana el país con más goles.",
     "portada": ""
+  },
+  "poparena": {
+    "version": "1.0.0",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/poparena-v1.0.0/poparena-1.0.0.tikijuego",
+    "sha256": "68eb2c7056e3317a9430837908ff668395ab0da187a3a874ac6d0ef4561888a0",
+    "peso": 791925,
+    "publicado": "2026-10-25T19:35:29.681Z",
+    "nombre": "Pop Arena",
+    "texto": "Rojo contra azul en una arena redonda: los regalos sueltan bolitas de cada equipo y la pelota las revienta para sumar puntos. Quien más sume al final de la ronda se lleva el win.",
+    "portada": "",
+    "datosViejos": [
+      "Pop Arena",
+      "poparena-datos.json"
+    ]
   }
 }
