@@ -96,5 +96,19 @@
       "Pop Arena",
       "poparena-datos.json"
     ]
+  },
+  "snakerun": {
+    "version": "1.0.0",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/snakerun-v1.0.0/snakerun-1.0.0.tikijuego",
+    "sha256": "7d5fb18b7ce21f6f817713ee2e8e0af15d44492e7ac8d8010912549b7af99f95",
+    "peso": 620405815,
+    "publicado": "2026-10-25T19:36:21.704Z",
+    "nombre": "Snake Run",
+    "texto": "Runner 3D: los regalos invocan héroes que empujan hacia la meta y villanos que empujan hacia atrás.",
+    "portada": "",
+    "datosViejos": [
+      "TikiGames Snake Run",
+      "snakerun-datos.json"
+    ]
   }
 }
