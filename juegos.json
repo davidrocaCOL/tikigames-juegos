@@ -19,5 +19,19 @@
       "Drop Clash Equipos",
       "dropclash-datos.json"
     ]
+  },
+  "chessbattle": {
+    "version": "1.0.0",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/chessbattle-v1.0.0/chessbattle-1.0.0.tikijuego",
+    "sha256": "ff35fa85533c09bf336d384476910eca2cf609faa69a2f07334525120daca052",
+    "peso": 1884019,
+    "publicado": "2026-10-25T02:25:34.688Z",
+    "nombre": "Chess Battle",
+    "texto": "Batalla de ajedrez en 3D, rojo contra azul. Cada regalo invoca una ficha para su bando, del peón a la reina, y gana el que derriba al rey rival.",
+    "portada": "",
+    "datosViejos": [
+      "Chess Battle",
+      "chessbattle-datos.json"
+    ]
   }
 }
