@@ -72,5 +72,15 @@
     "nombre": "Mundialito",
     "texto": "Torneo por países en el que la audiencia apoya a su selección. Los récords se guardan entre transmisiones.",
     "portada": ""
+  },
+  "octogol": {
+    "version": "1.0.0",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/octogol-v1.0.0/octogol-1.0.0.tikijuego",
+    "sha256": "3a683abd4c2c6bfdf3a185700771ece484c8972c1fc91a482320d4a397efc54f",
+    "peso": 787662,
+    "publicado": "2026-10-25T19:35:24.290Z",
+    "nombre": "Octogol",
+    "texto": "Ocho países en un octágono, cada uno con su cañón y su portería. Los regalos disparan balones, escudos, tornados y meteoritos; gana el país con más goles.",
+    "portada": ""
   }
 }
