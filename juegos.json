@@ -43,11 +43,12 @@
     ]
   },
   "towerup": {
-    "version": "1.0.0",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/towerup-v1.0.0/towerup-1.0.0.tikijuego",
-    "sha256": "7a699cc47d7c09ec21fc8425c5261ee42572ef28ec65214cef50b0f7f181587d",
-    "peso": 1551134,
-    "publicado": "2026-10-25T02:26:34.272Z",
+    "version": "1.0.1",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/towerup-v1.0.1/towerup-1.0.1.tikijuego",
+    "sha256": "3fd8650834a12b5d808614ca338cc16c4e539d2971b02b001974c446d6b84a3a",
+    "peso": 1557855,
+    "publicado": "2026-10-31T19:14:25.942Z",
+    "estreno": "2026-10-25T02:26:34.272Z",
     "nombre": "Tower Up",
     "texto": "Dos torres de cubos, Rojo contra Azul. Regalos, taps y follows suman bloques a su equipo, y los regalos grandes atacan la torre rival.",
     "portada": "",
