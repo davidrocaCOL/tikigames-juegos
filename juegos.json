@@ -119,5 +119,16 @@
       "TikiGames Snake Run",
       "snakerun-datos.json"
     ]
+  },
+  "poolcleaning": {
+    "version": "0.9.0",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/poolcleaning-v0.9.0/poolcleaning-0.9.0.tikijuego",
+    "sha256": "362c9f9844a0101cec2b16dc22c681107b3acfe26b23ebcfc7b7619a6afdeded",
+    "peso": 14963374,
+    "publicado": "2026-11-02T21:43:45.192Z",
+    "estreno": "2026-11-02T21:43:45.192Z",
+    "nombre": "Pool Cleaning",
+    "texto": "Una piscina gigante con un millón de bolas. Los regalos la llenan o la vacían con una máquina enorme, y tú la limpias con tu manguera hasta dejarla vacía.",
+    "portada": ""
   }
 }
