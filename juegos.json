@@ -107,11 +107,12 @@
     ]
   },
   "snakerun": {
-    "version": "1.0.0",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/snakerun-v1.0.0/snakerun-1.0.0.tikijuego",
-    "sha256": "7d5fb18b7ce21f6f817713ee2e8e0af15d44492e7ac8d8010912549b7af99f95",
-    "peso": 620405815,
-    "publicado": "2026-10-25T19:36:21.704Z",
+    "version": "1.0.1",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/snakerun-v1.0.1/snakerun-1.0.1.tikijuego",
+    "sha256": "dc8588bba05fa42967073931cd9ddbf4b744a0c8c232dfc8184544438b293801",
+    "peso": 620599329,
+    "publicado": "2026-11-03T14:32:37.062Z",
+    "estreno": "2026-10-25T19:36:21.704Z",
     "nombre": "Snake Run",
     "texto": "Runner 3D: los regalos invocan héroes que empujan hacia la meta y villanos que empujan hacia atrás.",
     "portada": "",
