@@ -131,5 +131,17 @@
     "nombre": "Pool Cleaning",
     "texto": "Una piscina gigante con un millón de bolas. Los regalos la llenan o la vacían con una máquina enorme, y tú la limpias con tu manguera hasta dejarla vacía.",
     "portada": ""
+  },
+  "animalrace": {
+    "version": "1.0.0",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/animalrace-v1.0.0/animalrace-1.0.0.tikijuego",
+    "sha256": "b6f33da1ab72d61b56647e4a9be1883ef5c52f96ff23b597a46749065b5a3234",
+    "peso": 4412782,
+    "publicado": "2026-11-07T18:23:37.970Z",
+    "estreno": "2026-11-07T18:23:37.971Z",
+    "nombre": "Animal Race",
+    "texto": "Carrera de animales en 3D por países: cada país tiene su animal y corre en una pista tipo Fórmula 1. Los regalos y los taps los hacen correr; gana el país que da más vueltas y sube al podio.",
+    "portada": "",
+    "datosViejos": []
   }
 }
