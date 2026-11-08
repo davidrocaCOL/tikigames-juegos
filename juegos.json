@@ -133,15 +133,15 @@
     "portada": ""
   },
   "animalrace": {
-    "version": "1.0.4",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/animalrace-v1.0.4/animalrace-1.0.4.tikijuego",
-    "sha256": "e95771f28da2e379876813e51aa5495155f1ce704120e7bb62b1aa5430ce854c",
-    "peso": 4428011,
-    "publicado": "2026-11-08T20:05:53.333Z",
+    "version": "1.0.5",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/animalrace-v1.0.5/animalrace-1.0.5.tikijuego",
+    "sha256": "1e1b117ed43a6183c51a7bf92585e23a9258019aef4f88de60698cdc5e982119",
+    "peso": 4429511,
+    "publicado": "2026-11-08T20:15:19.349Z",
     "estreno": "2026-11-07T18:23:37.971Z",
     "nombre": "Animal Race",
     "texto": "Carrera de animales en 3D por países: cada país tiene su animal y corre en una pista tipo Fórmula 1. Los regalos y los taps los hacen correr; gana el país que da más vueltas y sube al podio.",
-    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/animalrace-v1.0.4/portada-animalrace-1.0.4.jpg",
+    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/animalrace-v1.0.5/portada-animalrace-1.0.5.jpg",
     "datosViejos": []
   }
 }
