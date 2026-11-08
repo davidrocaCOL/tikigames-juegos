@@ -15,11 +15,11 @@
     ]
   },
   "donttouchwater": {
-    "version": "0.4.0",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/donttouchwater-v0.4.0/donttouchwater-0.4.0.tikijuego",
-    "sha256": "fd5c9b27bbdab41f5648e97c9e81a5dea55f4bf80de569e95de1df7b3427a878",
-    "peso": 6722169,
-    "publicado": "2026-11-08T04:10:31.953Z",
+    "version": "0.4.1",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/donttouchwater-v0.4.1/donttouchwater-0.4.1.tikijuego",
+    "sha256": "c3d31afb625052e8f5e23a5e024710bff1cfa292e300e3bac70832547a34b053",
+    "peso": 6723298,
+    "publicado": "2026-11-08T19:01:15.479Z",
     "estreno": "2026-11-07T00:47:55.253Z",
     "nombre": "Don’t Touch the Water",
     "texto": "Parkour en primera persona por unos backrooms inundados: si tocas el agua, algo te oye y viene a por ti. El directo puede apagarte la luz, empujarte o reiniciarte el nivel… y también salvarte.",
