@@ -26,11 +26,11 @@
     "portada": ""
   },
   "guerrareinos": {
-    "version": "0.3.0",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/guerrareinos-v0.3.0/guerrareinos-0.3.0.tikijuego",
-    "sha256": "4558d1bb30d4ef343fcfe7df2658d3e707acceb56c817044e133387c7d423976",
-    "peso": 56702547,
-    "publicado": "2026-11-07T05:08:52.374Z",
+    "version": "0.3.1",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/guerrareinos-v0.3.1/guerrareinos-0.3.1.tikijuego",
+    "sha256": "f57d77ef1bf2868882526bb10846e91c73570cc0798a9d6e69af079ff67e81cf",
+    "peso": 56702298,
+    "publicado": "2026-11-08T19:01:07.812Z",
     "estreno": "2026-11-07T05:08:52.375Z",
     "nombre": "Kingdom War",
     "texto": "Batalla de países en un mapa enorme: cada reino tiene su castillo y los regalos del directo mandan espadachines, tanques, aviones y misiles contra los demás. Gana el último reino en pie.",
