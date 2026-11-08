@@ -1,10 +1,10 @@
 {
   "trompobattle": {
-    "version": "0.10.12",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/trompobattle-v0.10.12/trompobattle-0.10.12.tikijuego",
-    "sha256": "83e25d5955996d4e65c31e8c9d610aa0675be6a3085ee7c77b068bc9a91b5164",
-    "peso": 1152799,
-    "publicado": "2026-11-08T19:00:57.549Z",
+    "version": "0.10.13",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/trompobattle-v0.10.13/trompobattle-0.10.13.tikijuego",
+    "sha256": "c59e54319664ad025373fd5ecc1785053460ae4064e902eb76d6769b90c7fe9b",
+    "peso": 1167319,
+    "publicado": "2026-11-08T19:04:39.479Z",
     "estreno": "2026-11-07T00:18:48.904Z",
     "nombre": "Trompo Battle",
     "texto": "Todos contra todos con trompos: cada persona del directo tiene el suyo con solo entrar, y los regalos lanzan poderes para cargarse a los demás. También por países. Gana el último en pie o el de más K.O.",
