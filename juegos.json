@@ -29,11 +29,12 @@
     ]
   },
   "chessbattle": {
-    "version": "1.0.0",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/chessbattle-v1.0.0/chessbattle-1.0.0.tikijuego",
-    "sha256": "ff35fa85533c09bf336d384476910eca2cf609faa69a2f07334525120daca052",
-    "peso": 1884019,
-    "publicado": "2026-10-25T02:25:34.688Z",
+    "version": "1.0.1",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/chessbattle-v1.0.1/chessbattle-1.0.1.tikijuego",
+    "sha256": "b6d3b21ebbaab1a29c5660bbeacee1d6b02d902d1cd4770e293e4e6c9bc31268",
+    "peso": 1887632,
+    "publicado": "2026-11-09T01:27:09.156Z",
+    "estreno": "2026-10-25T02:25:34.688Z",
     "nombre": "Chess Battle",
     "texto": "Batalla de ajedrez en 3D, rojo contra azul. Cada regalo invoca una ficha para su bando, del peón a la reina, y gana el que derriba al rey rival.",
     "portada": "",
