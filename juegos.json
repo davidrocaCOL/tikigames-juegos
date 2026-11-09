@@ -15,11 +15,12 @@
     ]
   },
   "dropclash": {
-    "version": "1.0.0",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/dropclash-v1.0.0/dropclash-1.0.0.tikijuego",
-    "sha256": "8a6178207cf84083c1dc1e877942bbde5bc66e7b1d0f483a9edcb1233b61e7c1",
-    "peso": 812232,
-    "publicado": "2026-10-25T02:25:15.562Z",
+    "version": "1.0.1",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/dropclash-v1.0.1/dropclash-1.0.1.tikijuego",
+    "sha256": "fd824b087235c51230a059a17a720d75b8192e8934626b5edefe29ec1e7f5e71",
+    "peso": 816818,
+    "publicado": "2026-11-09T01:27:14.604Z",
+    "estreno": "2026-10-25T02:25:15.562Z",
     "nombre": "Drop Clash",
     "texto": "Lluvia de fichas por países: los regalos sueltan fichas en el tablero y el país que más puntos suma se lleva la ronda.",
     "portada": "",
