@@ -149,5 +149,21 @@
     "texto": "Carrera de animales en 3D por países: cada país tiene su animal y corre en una pista tipo Fórmula 1. Los regalos y los taps los hacen correr; gana el país que da más vueltas y sube al podio.",
     "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/animalrace-v1.0.9/portada-animalrace-1.0.9.jpg",
     "datosViejos": []
+  },
+  "trompobattle": {
+    "version": "0.10.16",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/trompobattle-v0.10.16/trompobattle-0.10.16.tikijuego",
+    "sha256": "85281fcfec9943439a9a122d469ed82edf16678e706e50319badbba691bfaea2",
+    "peso": 1140259,
+    "publicado": "2026-11-10T01:43:30.288Z",
+    "estreno": "2026-11-10T01:43:30.289Z",
+    "nombre": "Trompo Battle",
+    "texto": "Todos contra todos con trompos: cada persona del directo tiene el suyo y los regalos lanzan poderes para tumbar a los demás. Gana el último en pie o el de más puntaje.",
+    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/trompobattle-v0.10.16/portada-trompobattle-0.10.16.jpg",
+    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/trompobattle-v0.10.16/portada-trompobattle-0.10.16.webm",
+    "datosViejos": [
+      "Trompo Battle",
+      "trompobattle-datos.json"
+    ]
   }
 }
