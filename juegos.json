@@ -128,11 +128,11 @@
     ]
   },
   "poolcleaning": {
-    "version": "1.0.11",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/poolcleaning-v1.0.11/poolcleaning-1.0.11.tikijuego",
-    "sha256": "041ef503ac5619e09c173410e3fd71aabd21ab2012d9549d1fac148819f6e22c",
-    "peso": 15123183,
-    "publicado": "2026-11-09T01:26:54.813Z",
+    "version": "1.0.12",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/poolcleaning-v1.0.12/poolcleaning-1.0.12.tikijuego",
+    "sha256": "ba4db43a2b5fa1fdfad85ee9c38d6164a71b0fd322f2ddfe3c008ce6861676d0",
+    "peso": 15128832,
+    "publicado": "2026-11-10T01:42:36.934Z",
     "estreno": "2026-11-02T21:43:45.192Z",
     "nombre": "Pool Cleaning",
     "texto": "Una piscina gigante con un millón de bolas. Los regalos la llenan o la vacían con una máquina enorme, y tú la limpias con tu manguera hasta dejarla vacía.",
