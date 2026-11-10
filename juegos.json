@@ -165,5 +165,17 @@
       "Trompo Battle",
       "trompobattle-datos.json"
     ]
+  },
+  "donttouchwater": {
+    "version": "0.5.1",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/donttouchwater-v0.5.1/donttouchwater-0.5.1.tikijuego",
+    "sha256": "3f82f00ca4152bafa325da1c0d770e730f3d16434e2b7e868b225b6210fc6929",
+    "peso": 6741991,
+    "publicado": "2026-11-10T01:43:42.782Z",
+    "estreno": "2026-11-10T01:43:42.783Z",
+    "nombre": "Don’t Touch the Water",
+    "texto": "Parkour a oscuras por unos backrooms inundados, solo con tu linterna. Si tocas el agua, algo te oye y viene a por ti. 50 niveles en los que el directo te sube o te baja de nivel, te empuja, te deja sin batería… o te da un impulso.",
+    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/donttouchwater-v0.5.1/portada-donttouchwater-0.5.1.jpg",
+    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/donttouchwater-v0.5.1/portada-donttouchwater-0.5.1.webm"
   }
 }
