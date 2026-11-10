@@ -1,15 +1,4 @@
 {
-  "donttouchwater": {
-    "version": "0.5.0",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/donttouchwater-v0.5.0/donttouchwater-0.5.0.tikijuego",
-    "sha256": "25ac38fc0f8d5f1d1fd51edf24bfbb1262c2b1fe313307a47ff0ecd431762fbe",
-    "peso": 6733261,
-    "publicado": "2026-11-09T21:16:33.752Z",
-    "estreno": "2026-11-07T00:47:55.253Z",
-    "nombre": "Don’t Touch the Water",
-    "texto": "Parkour en primera persona por unos backrooms inundados: si tocas el agua, algo te oye y viene a por ti. El directo puede apagarte la luz, empujarte o reiniciarte el nivel… y también salvarte.",
-    "portada": ""
-  },
   "guerrareinos": {
     "version": "0.3.2",
     "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/guerrareinos-v0.3.2/guerrareinos-0.3.2.tikijuego",
