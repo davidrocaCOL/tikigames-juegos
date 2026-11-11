@@ -24,15 +24,16 @@
     "datosViejos": []
   },
   "parchis": {
-    "version": "0.2.0",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/parchis-v0.2.0/parchis-0.2.0.tikijuego",
-    "sha256": "47b74085cb9e1288060581295aa733978110da8a8f25c36b71c02d7ce4a60405",
-    "peso": 9920172,
-    "publicado": "2026-11-11T03:11:47.352Z",
+    "version": "0.3.0",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/parchis-v0.3.0/parchis-0.3.0.tikijuego",
+    "sha256": "678059c40c60ceafe60f8c36c4e93fcc5adf81de149e203057537e87ca2972be",
+    "peso": 9972890,
+    "publicado": "2026-11-11T23:39:29.187Z",
     "estreno": "2026-11-11T03:11:47.353Z",
     "nombre": "Parchís",
-    "texto": "Carrera de figuritas por países en un parqués 3D sobre una mesa: cada país corre sin parar con su música típica y los regalos del directo lo aceleran con efectos cada vez más grandes. Cada vuelta es un punto; gana el que más vueltas da cuando se acaba el tiempo.",
-    "portada": "",
+    "texto": "Carrera de figuritas por países en un parqués 3D sobre una mesa: los regalos, los tap-taps y los comentarios del directo mueven la ficha de cada país, con su música típica y efectos cada vez más grandes. Cada vuelta es un punto; gana el que más vueltas da cuando se acaba el tiempo.",
+    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/parchis-v0.3.0/portada-parchis-0.3.0.jpg",
+    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/parchis-v0.3.0/portada-parchis-0.3.0.webm",
     "datosViejos": []
   }
 }
