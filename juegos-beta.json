@@ -22,5 +22,17 @@
     "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/neonrace-v0.1.0/portada-neonrace-0.1.0.jpg",
     "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/neonrace-v0.1.0/portada-neonrace-0.1.0.webm",
     "datosViejos": []
+  },
+  "parchis": {
+    "version": "0.2.0",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/parchis-v0.2.0/parchis-0.2.0.tikijuego",
+    "sha256": "47b74085cb9e1288060581295aa733978110da8a8f25c36b71c02d7ce4a60405",
+    "peso": 9920172,
+    "publicado": "2026-11-11T03:11:47.352Z",
+    "estreno": "2026-11-11T03:11:47.353Z",
+    "nombre": "Parchís",
+    "texto": "Carrera de figuritas por países en un parqués 3D sobre una mesa: cada país corre sin parar con su música típica y los regalos del directo lo aceleran con efectos cada vez más grandes. Cada vuelta es un punto; gana el que más vueltas da cuando se acaba el tiempo.",
+    "portada": "",
+    "datosViejos": []
   }
 }
