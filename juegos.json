@@ -1,10 +1,10 @@
 {
   "ballracing": {
-    "version": "1.2.5",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/ballracing-v1.2.5/ballracing-1.2.5.tikijuego",
-    "sha256": "5de8057c9cbdd95aa5a30b3c1ab503035be27fbaa15b663b02b472bd49af0fb8",
-    "peso": 2409302,
-    "publicado": "2026-11-10T01:43:20.733Z",
+    "version": "1.2.6",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/ballracing-v1.2.6/ballracing-1.2.6.tikijuego",
+    "sha256": "5a83d65f80ca1f8c6d57e81ad4661da4dba28fdb73d5d26092ea31eace1c13a6",
+    "peso": 2417148,
+    "publicado": "2026-11-12T07:13:09.578Z",
     "estreno": "2026-10-24T21:53:35.325Z",
     "nombre": "Ball Racing",
     "texto": "Carrera de canicas con ambiente de F1. Los regalos dan poderes y el público corre por su país o por su cuenta.",
