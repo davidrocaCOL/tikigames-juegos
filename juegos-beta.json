@@ -35,5 +35,18 @@
     "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/parchis-v0.3.0/portada-parchis-0.3.0.jpg",
     "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/parchis-v0.3.0/portada-parchis-0.3.0.webm",
     "datosViejos": []
+  },
+  "worldmap": {
+    "version": "0.1.0",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/worldmap-v0.1.0/worldmap-0.1.0.tikijuego",
+    "sha256": "7c75ea3868728c9b384f6db4a25e588e9e10052efda20984e8a29735f28fc8a6",
+    "peso": 3336380,
+    "publicado": "2026-11-12T06:43:19.269Z",
+    "estreno": "2026-11-12T06:43:19.270Z",
+    "nombre": "World Map",
+    "texto": "El mundo en 100 zonas: cada país lo va pintando con sus colores a punta de regalos y, con el mundo entero, tiene que aguantar 60 segundos con su escudo.",
+    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/worldmap-v0.1.0/portada-worldmap-0.1.0.jpg",
+    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/worldmap-v0.1.0/portada-worldmap-0.1.0.webm",
+    "datosViejos": []
   }
 }
