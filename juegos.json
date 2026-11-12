@@ -76,11 +76,11 @@
     "ventana": "ancha"
   },
   "mundialito": {
-    "version": "1.0.9",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/mundialito-v1.0.9/mundialito-1.0.9.tikijuego",
-    "sha256": "dde74cc516c50fccc031aacb3d861d3ec0e40fe3597eb395ac9bf035bd485fd6",
-    "peso": 56958432,
-    "publicado": "2026-11-09T01:28:19.795Z",
+    "version": "1.0.10",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/mundialito-v1.0.10/mundialito-1.0.10.tikijuego",
+    "sha256": "49be838e6c3b8e3c5c3fdb3cf18d4c8b05b4a44d9b7ac7c6e859f4ca968e46a4",
+    "peso": 56959786,
+    "publicado": "2026-11-12T07:14:26.703Z",
     "estreno": "2026-10-25T19:35:18.938Z",
     "nombre": "Mundialito",
     "texto": "Torneo por países en el que la audiencia apoya a su selección. Los récords se guardan entre transmisiones.",
