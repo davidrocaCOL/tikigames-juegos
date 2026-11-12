@@ -60,11 +60,11 @@
     ]
   },
   "carreritas": {
-    "version": "1.0.1",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/carreritas-v1.0.1/carreritas-1.0.1.tikijuego",
-    "sha256": "c0c7dbf1fe2ef2e134b62253e7f09f61269b9c4fb2c05ccf7e8b8629ccc07b3c",
-    "peso": 102375556,
-    "publicado": "2026-11-09T01:28:10.746Z",
+    "version": "1.0.2",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/carreritas-v1.0.2/carreritas-1.0.2.tikijuego",
+    "sha256": "4dbfb896845ba3ff7c8a9813a84363752400016be39bed82d49d244ceb60cc82",
+    "peso": 102377106,
+    "publicado": "2026-11-12T07:13:47.012Z",
     "estreno": "2026-10-25T19:35:10.441Z",
     "nombre": "Carreritas",
     "texto": "Carrera de animales por países. Cada país corre con los regalos, los taps y los follows de su gente, con turbos, multiplicadores y tarjetas.",
