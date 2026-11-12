@@ -87,11 +87,11 @@
     "portada": ""
   },
   "octogol": {
-    "version": "1.0.1",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/octogol-v1.0.1/octogol-1.0.1.tikijuego",
-    "sha256": "43e57e40b2e5703bd0f7dd6fe4ca4e684e0a6ab9a8005700802a98728245f772",
-    "peso": 789399,
-    "publicado": "2026-11-09T01:28:25.657Z",
+    "version": "1.0.2",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/octogol-v1.0.2/octogol-1.0.2.tikijuego",
+    "sha256": "2248ddca388c3e995cb5390749fb70f420a5ee62ab0795ca313a7988b25d972c",
+    "peso": 790953,
+    "publicado": "2026-11-12T07:14:35.557Z",
     "estreno": "2026-10-25T19:35:24.290Z",
     "nombre": "Octogol",
     "texto": "Ocho países en un octágono, cada uno con su cañón y su portería. Los regalos disparan balones, escudos, tornados y meteoritos; gana el país con más goles.",
