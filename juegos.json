@@ -167,15 +167,15 @@
     ]
   },
   "donttouchwater": {
-    "version": "1.0.1",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/donttouchwater-v1.0.1/donttouchwater-1.0.1.tikijuego",
-    "sha256": "073f4f1dcc184dc6d2726ddb8b8ecbd0ebb4670ade375431a0f3a7d8cf505be2",
-    "peso": 6743211,
-    "publicado": "2026-11-11T18:54:56.206Z",
+    "version": "1.0.2",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/donttouchwater-v1.0.2/donttouchwater-1.0.2.tikijuego",
+    "sha256": "ddd4b6c24473c3bc925d5438ddc124172af2d5052d2b054885d03fea5cecf34b",
+    "peso": 6744194,
+    "publicado": "2026-11-12T07:14:16.396Z",
     "estreno": "2026-11-10T01:43:42.783Z",
     "nombre": "Don’t Touch the Water",
     "texto": "Parkour a oscuras por unos backrooms inundados, solo con tu linterna. Si tocas el agua, algo te oye y viene a por ti. 50 niveles en los que el directo te sube o te baja de nivel, te empuja, te deja sin batería… o te da un impulso.",
-    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/donttouchwater-v1.0.1/portada-donttouchwater-1.0.1.jpg",
-    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/donttouchwater-v1.0.1/portada-donttouchwater-1.0.1.webm"
+    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/donttouchwater-v1.0.2/portada-donttouchwater-1.0.2.jpg",
+    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/donttouchwater-v1.0.2/portada-donttouchwater-1.0.2.webm"
   }
 }
