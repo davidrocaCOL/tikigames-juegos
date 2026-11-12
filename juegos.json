@@ -151,16 +151,16 @@
     "datosViejos": []
   },
   "trompobattle": {
-    "version": "1.0.0",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/trompobattle-v1.0.0/trompobattle-1.0.0.tikijuego",
-    "sha256": "30f5c3852d98b7dcf8957f9af102ae068b110c2b54be24669fb4714de8d6c965",
-    "peso": 1140385,
-    "publicado": "2026-11-10T01:59:26.776Z",
+    "version": "1.0.1",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/trompobattle-v1.0.1/trompobattle-1.0.1.tikijuego",
+    "sha256": "8a48cec10046c271f14b6f1a2a9bdb6ee26fe09641567ef37acb542addd6d985",
+    "peso": 1141233,
+    "publicado": "2026-11-12T07:16:10.292Z",
     "estreno": "2026-11-10T01:43:30.289Z",
     "nombre": "Trompo Battle",
     "texto": "Todos contra todos con trompos: cada persona del directo tiene el suyo y los regalos lanzan poderes para tumbar a los demás. Gana el último en pie o el de más puntaje.",
-    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/trompobattle-v1.0.0/portada-trompobattle-1.0.0.jpg",
-    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/trompobattle-v1.0.0/portada-trompobattle-1.0.0.webm",
+    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/trompobattle-v1.0.1/portada-trompobattle-1.0.1.jpg",
+    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/trompobattle-v1.0.1/portada-trompobattle-1.0.1.webm",
     "datosViejos": [
       "Trompo Battle",
       "trompobattle-datos.json"
