@@ -11,16 +11,16 @@
     "portada": ""
   },
   "neonrace": {
-    "version": "0.1.1",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/neonrace-v0.1.1/neonrace-0.1.1.tikijuego",
-    "sha256": "7b337b4b18b00c6a092da2a787ddb0e7501c19a92c1f867996ef35ad39474305",
-    "peso": 5005982,
-    "publicado": "2026-11-12T00:29:56.939Z",
+    "version": "0.1.2",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/neonrace-v0.1.2/neonrace-0.1.2.tikijuego",
+    "sha256": "6ed048a3a742a26e1ec2ac04c7ee050fe297e98d07b590f500b16084798694bb",
+    "peso": 5008500,
+    "publicado": "2026-11-12T07:16:32.545Z",
     "estreno": "2026-11-10T19:44:20.206Z",
     "nombre": "Neon Race",
     "texto": "Carrera de motos de luz en 3D por países, de noche, sobre una pista elevada en una ciudad de neón. Cada país tiene su moto con sus colores y deja una estela de luz con ellos. Los regalos y los taps las aceleran; gana el país que da más vueltas.",
-    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/neonrace-v0.1.1/portada-neonrace-0.1.1.jpg",
-    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/neonrace-v0.1.1/portada-neonrace-0.1.1.webm",
+    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/neonrace-v0.1.2/portada-neonrace-0.1.2.jpg",
+    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/neonrace-v0.1.2/portada-neonrace-0.1.2.webm",
     "datosViejos": []
   },
   "parchis": {
