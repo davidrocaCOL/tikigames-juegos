@@ -48,5 +48,18 @@
     "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/worldmap-v0.1.1/portada-worldmap-0.1.1.jpg",
     "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/worldmap-v0.1.1/portada-worldmap-0.1.1.webm",
     "datosViejos": []
+  },
+  "weddingparty": {
+    "version": "0.1.0",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/weddingparty-v0.1.0/weddingparty-0.1.0.tikijuego",
+    "sha256": "d5cc6748f015b794dc44c13860d6b26a41dccff863dc38b82acb24ff748d6b68",
+    "peso": 289108028,
+    "publicado": "2026-11-12T19:17:57.773Z",
+    "estreno": "2026-11-12T19:17:57.774Z",
+    "nombre": "Wedding Party",
+    "texto": "La fiesta después de la boda: los novios en su tarima, los invitados bailando salsa, merengue y reggaetón alrededor y la banda en vivo. Cada regalo da un papel en la fiesta (invitado, músico, novio o novia) o lanza el ramo, la lluvia de dinero o la fiesta disco.",
+    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/weddingparty-v0.1.0/portada-weddingparty-0.1.0.jpg",
+    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/weddingparty-v0.1.0/portada-weddingparty-0.1.0.webm",
+    "datosViejos": []
   }
 }
