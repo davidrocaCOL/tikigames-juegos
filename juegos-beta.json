@@ -10,19 +10,6 @@
     "texto": "Batalla de países en un mapa enorme: cada reino tiene su castillo y los regalos del directo mandan espadachines, tanques, aviones y misiles contra los demás. Gana el último reino en pie.",
     "portada": ""
   },
-  "neonrace": {
-    "version": "0.1.2",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/neonrace-v0.1.2/neonrace-0.1.2.tikijuego",
-    "sha256": "6ed048a3a742a26e1ec2ac04c7ee050fe297e98d07b590f500b16084798694bb",
-    "peso": 5008500,
-    "publicado": "2026-11-12T07:16:32.545Z",
-    "estreno": "2026-11-10T19:44:20.206Z",
-    "nombre": "Neon Race",
-    "texto": "Carrera de motos de luz en 3D por países, de noche, sobre una pista elevada en una ciudad de neón. Cada país tiene su moto con sus colores y deja una estela de luz con ellos. Los regalos y los taps las aceleran; gana el país que da más vueltas.",
-    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/neonrace-v0.1.2/portada-neonrace-0.1.2.jpg",
-    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/neonrace-v0.1.2/portada-neonrace-0.1.2.webm",
-    "datosViejos": []
-  },
   "parchis": {
     "version": "0.3.1",
     "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/parchis-v0.3.1/parchis-0.3.1.tikijuego",
