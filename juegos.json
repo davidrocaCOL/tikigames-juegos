@@ -190,5 +190,18 @@
     "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/neonrace-v1.0.0/portada-neonrace-1.0.0.jpg",
     "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/neonrace-v1.0.0/portada-neonrace-1.0.0.webm",
     "datosViejos": []
+  },
+  "weddingparty": {
+    "version": "1.0.0",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/weddingparty-v1.0.0/weddingparty-1.0.0.tikijuego",
+    "sha256": "bffea9b874d3efd9a3ec4052936fae5b107390515ebe86a6c55f766fbc3ff30e",
+    "peso": 289114529,
+    "publicado": "2026-11-17T01:16:54.830Z",
+    "estreno": "2026-11-17T01:16:54.832Z",
+    "nombre": "Wedding Party",
+    "texto": "La fiesta después de la boda: los novios en su tarima, los invitados bailando salsa, merengue y reggaetón alrededor y la banda en vivo. Cada regalo da un papel en la fiesta (invitado, músico, novio o novia) o lanza el ramo, la lluvia de dinero o la fiesta disco.",
+    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/weddingparty-v1.0.0/portada-weddingparty-1.0.0.jpg",
+    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/weddingparty-v1.0.0/portada-weddingparty-1.0.0.webm",
+    "datosViejos": []
   }
 }
