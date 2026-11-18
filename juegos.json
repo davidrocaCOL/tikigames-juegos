@@ -203,5 +203,18 @@
     "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/weddingparty-v1.0.0/portada-weddingparty-1.0.0.jpg",
     "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/weddingparty-v1.0.0/portada-weddingparty-1.0.0.webm",
     "datosViejos": []
+  },
+  "worldmap": {
+    "version": "1.0.0",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/worldmap-v1.0.0/worldmap-1.0.0.tikijuego",
+    "sha256": "a0ace0713093c9f4962314aaf544178f1063924810828f6e2c5d8ece4e32a09d",
+    "peso": 3394547,
+    "publicado": "2026-11-18T20:25:57.008Z",
+    "estreno": "2026-11-18T20:25:57.009Z",
+    "nombre": "World Map",
+    "texto": "El mundo en 100 zonas: cada país lo va pintando con sus colores a punta de regalos y, con el mundo entero, tiene que aguantar 60 segundos con su escudo.",
+    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/worldmap-v1.0.0/portada-worldmap-1.0.0.jpg",
+    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/worldmap-v1.0.0/portada-worldmap-1.0.0.webm",
+    "datosViejos": []
   }
 }
