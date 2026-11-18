@@ -9,18 +9,5 @@
     "nombre": "Kingdom War",
     "texto": "Batalla de países en un mapa enorme: cada reino tiene su castillo y los regalos del directo mandan espadachines, tanques, aviones y misiles contra los demás. Gana el último reino en pie.",
     "portada": ""
-  },
-  "parchis": {
-    "version": "0.3.1",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/parchis-v0.3.1/parchis-0.3.1.tikijuego",
-    "sha256": "1cdaa4c928f4aac3ff6a4134813d0ee1add9e2e2a7e5dc61a253ee06b8beff6a",
-    "peso": 9977288,
-    "publicado": "2026-11-12T07:16:20.951Z",
-    "estreno": "2026-11-11T03:11:47.353Z",
-    "nombre": "Parchís",
-    "texto": "Carrera de figuritas por países en un parqués 3D sobre una mesa: los regalos, los tap-taps y los comentarios del directo mueven la ficha de cada país, con su música típica y efectos cada vez más grandes. Cada vuelta es un punto; gana el que más vueltas da cuando se acaba el tiempo.",
-    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/parchis-v0.3.1/portada-parchis-0.3.1.jpg",
-    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/parchis-v0.3.1/portada-parchis-0.3.1.webm",
-    "datosViejos": []
   }
 }
