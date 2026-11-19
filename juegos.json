@@ -244,5 +244,18 @@
     "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/leavingearth-v1.0.0/portada-leavingearth-1.0.0.jpg",
     "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/leavingearth-v1.0.0/portada-leavingearth-1.0.0.webm",
     "datosViejos": []
+  },
+  "zumbaclass": {
+    "version": "1.0.0",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/zumbaclass-v1.0.0/zumbaclass-1.0.0.tikijuego",
+    "sha256": "f5ef27da7fb311d39c15e28cbff4daa76bc5b769b2fbdefa98901a34982534c0",
+    "peso": 150767748,
+    "publicado": "2026-11-19T00:41:59.560Z",
+    "estreno": "2026-11-19T00:41:59.561Z",
+    "nombre": "Zumba Class",
+    "texto": "Una clase de zumba en directo: el profe y la profe marcan los pasos en su tarima y los alumnos, en filas detrás, los copian al ritmo de salsa, merengue y reggaetón. Cada regalo te mete en la clase como chico o chica, te cambia la ropa deportiva, te sube a bailar con el DJ o te hace el profe; el Quiéreme te pone de DJ, y también hay lluvia de confeti y máxima intensidad.",
+    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/zumbaclass-v1.0.0/portada-zumbaclass-1.0.0.jpg",
+    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/zumbaclass-v1.0.0/portada-zumbaclass-1.0.0.webm",
+    "datosViejos": []
   }
 }
