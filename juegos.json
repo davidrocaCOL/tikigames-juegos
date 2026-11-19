@@ -220,16 +220,16 @@
     "datosViejos": []
   },
   "futbolito": {
-    "version": "1.0.0",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/futbolito-v1.0.0/futbolito-1.0.0.tikijuego",
-    "sha256": "3f69f27548975652b82a21e15839f444d0ba46ad29c4540d8971ab57b0174f04",
-    "peso": 3402615,
-    "publicado": "2026-11-18T22:51:34.264Z",
+    "version": "1.0.1",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/futbolito-v1.0.1/futbolito-1.0.1.tikijuego",
+    "sha256": "a86ddf6ac250ed6f7b58cf5d3c3595564c52c6a12e8517a19e931c29d27ce135",
+    "peso": 3398737,
+    "publicado": "2026-11-19T00:09:20.377Z",
     "estreno": "2026-11-18T22:51:34.265Z",
     "nombre": "Futbolito",
     "texto": "Una mesa de futbolito con hasta 16 países: cada uno con sus muñecos, su barra y su portería. Quien comenta su país se une a él; los taps patean balones y los regalos lanzan escudos, cañonazos que se tragan las bolas, tornados, posesiones, meteoritos y agujeros negros. Gana la ronda el país que más goles mete.",
-    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/futbolito-v1.0.0/portada-futbolito-1.0.0.jpg",
-    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/futbolito-v1.0.0/portada-futbolito-1.0.0.webm",
+    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/futbolito-v1.0.1/portada-futbolito-1.0.1.jpg",
+    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/futbolito-v1.0.1/portada-futbolito-1.0.1.webm",
     "datosViejos": []
   },
   "leavingearth": {
