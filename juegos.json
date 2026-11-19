@@ -233,16 +233,16 @@
     "datosViejos": []
   },
   "leavingearth": {
-    "version": "1.0.0",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/leavingearth-v1.0.0/leavingearth-1.0.0.tikijuego",
-    "sha256": "fbc439d716f7dabe9b03958232e2a7674d854ae56bb8233b52aab03ede2dd6aa",
-    "peso": 1988434,
-    "publicado": "2026-11-18T22:51:50.379Z",
+    "version": "1.0.1",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/leavingearth-v1.0.1/leavingearth-1.0.1.tikijuego",
+    "sha256": "19cc785ee11ee0ebd0921900fba266ec1622f2c542b0abb56c4a2fd7617fd4b7",
+    "peso": 2014205,
+    "publicado": "2026-11-19T00:52:05.644Z",
     "estreno": "2026-11-18T22:51:50.380Z",
     "nombre": "Leaving Earth",
     "texto": "Un viaje por el espacio con tu directo: quien comenta hace fila y sube al cohete. La tripulación esquiva asteroides comentando izquierda o derecha, los taps y los regalos reparan la nave y la mejoran (hasta 500 plazas), y en cada planeta llega un mensaje alienígena por descifrar.",
-    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/leavingearth-v1.0.0/portada-leavingearth-1.0.0.jpg",
-    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/leavingearth-v1.0.0/portada-leavingearth-1.0.0.webm",
+    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/leavingearth-v1.0.1/portada-leavingearth-1.0.1.jpg",
+    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/leavingearth-v1.0.1/portada-leavingearth-1.0.1.webm",
     "datosViejos": []
   },
   "zumbaclass": {
