@@ -9,5 +9,17 @@
     "nombre": "Kingdom War",
     "texto": "Batalla de países en un mapa enorme: cada reino tiene su castillo y los regalos del directo mandan espadachines, tanques, aviones y misiles contra los demás. Gana el último reino en pie.",
     "portada": ""
+  },
+  "stairstoheaven": {
+    "version": "0.1.0",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/stairstoheaven-v0.1.0/stairstoheaven-0.1.0.tikijuego",
+    "sha256": "f5f0b323748d2580bf0712b71349185a20cd912e84016b760b0279f0f162e682",
+    "peso": 120204328,
+    "publicado": "2026-11-21T03:38:47.096Z",
+    "estreno": "2026-11-21T03:38:47.097Z",
+    "nombre": "Stairs to Heaven",
+    "texto": "Escalera al cielo: los regalos de los buenos te suben escalones y los de los malos te bajan.",
+    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/stairstoheaven-v0.1.0/portada-stairstoheaven-0.1.0.jpg",
+    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/stairstoheaven-v0.1.0/portada-stairstoheaven-0.1.0.webm"
   }
 }
