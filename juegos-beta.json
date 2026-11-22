@@ -21,5 +21,11 @@
     "texto": "Escalera al cielo: los regalos de los buenos te suben escalones y los de los malos te bajan.",
     "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/stairstoheaven-v0.1.3/portada-stairstoheaven-0.1.3.jpg",
     "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/stairstoheaven-v0.1.3/portada-stairstoheaven-0.1.3.webm"
+  },
+  "shredabillion": {
+    "nombre": "Shred a Billion",
+    "tipo": "mod",
+    "version": "0.3.0",
+    "texto": "Mod de TikiGames (se instala desde la pestaña Mods)."
   }
 }
