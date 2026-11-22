@@ -11,15 +11,15 @@
     "portada": ""
   },
   "stairstoheaven": {
-    "version": "0.1.1",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/stairstoheaven-v0.1.1/stairstoheaven-0.1.1.tikijuego",
-    "sha256": "65d806b48263c3be7b3ec00fe4c7a9e741b52984be492652d190685cb9115b27",
-    "peso": 125358932,
-    "publicado": "2026-11-22T02:00:31.960Z",
+    "version": "0.1.2",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/stairstoheaven-v0.1.2/stairstoheaven-0.1.2.tikijuego",
+    "sha256": "10c2ce0ceae40b6e94d98018d411c2e15bd71c2087bfdd4ea1af632cf20840a6",
+    "peso": 126627791,
+    "publicado": "2026-11-22T20:20:55.333Z",
     "estreno": "2026-11-21T03:38:47.097Z",
     "nombre": "Stairs to Heaven",
     "texto": "Escalera al cielo: los regalos de los buenos te suben escalones y los de los malos te bajan.",
-    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/stairstoheaven-v0.1.1/portada-stairstoheaven-0.1.1.jpg",
-    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/stairstoheaven-v0.1.1/portada-stairstoheaven-0.1.1.webm"
+    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/stairstoheaven-v0.1.2/portada-stairstoheaven-0.1.2.jpg",
+    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/stairstoheaven-v0.1.2/portada-stairstoheaven-0.1.2.webm"
   }
 }
