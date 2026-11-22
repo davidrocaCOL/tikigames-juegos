@@ -1,0 +1,15 @@
+{
+  "shredabillion": {
+    "nombre": "Shred a Billion",
+    "version": "0.3.0",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/shredabillion-mod-v0.3.0/shredabillion-0.3.0.tikimod",
+    "sha256": "b9c871bb4fc16113664ad5888d3f7b93169fb320fb551dfd135d642185058eb8",
+    "peso": 1753205,
+    "beta": true,
+    "builds": [
+      "26674632"
+    ],
+    "publicado": "2026-11-22T23:56:15.598Z",
+    "estreno": "2026-11-22T23:56:15.599Z"
+  }
+}
