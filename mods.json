@@ -14,15 +14,15 @@
   },
   "vacbotsimulator": {
     "nombre": "VacBot Simulator",
-    "version": "1.0.0",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/vacbotsimulator-mod-v1.0.0/vacbotsimulator-1.0.0.tikimod",
-    "sha256": "1ace8436658625663786e1274c24be13c78c2a4b1363ad37e6d546ed0a9112f0",
-    "peso": 1814480,
+    "version": "1.0.1",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/vacbotsimulator-mod-v1.0.1/vacbotsimulator-1.0.1.tikimod",
+    "sha256": "b8adbc9d303203d379a54844e7454dfe26e27f9e41a67b0991551c17b601281c",
+    "peso": 1814627,
     "beta": false,
     "builds": [
       "22708200"
     ],
-    "publicado": "2026-11-25T01:19:03.018Z",
+    "publicado": "2026-11-25T02:40:47.453Z",
     "estreno": "2026-11-25T01:19:03.019Z",
     "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/vacbotsimulator-mod-v1.0.0/portada-vacbotsimulator-1.0.0.jpg"
   }
