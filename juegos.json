@@ -269,5 +269,18 @@
     "texto": "Escalera al cielo: los regalos de los buenos te suben escalones y los de los malos te bajan.",
     "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/stairstoheaven-v1.0.3/portada-stairstoheaven-1.0.3.jpg",
     "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/stairstoheaven-v1.0.3/portada-stairstoheaven-1.0.3.webm"
+  },
+  "worldmap3d": {
+    "version": "1.0.0",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/worldmap3d-v1.0.0/worldmap3d-1.0.0.tikijuego",
+    "sha256": "d19978a0e469a0c02d52f36b899efe70e8bf3ca7ee203605863652a7cd0df811",
+    "peso": 12539065,
+    "publicado": "2026-11-25T23:27:06.057Z",
+    "estreno": "2026-11-25T23:27:06.058Z",
+    "nombre": "World Map 3D",
+    "texto": "La Tierra en 3D: cada país sube capa a capa con los colores de su bandera y la foto de quien puso la última. Gana la ronda el que más metros tenga.",
+    "portada": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/worldmap3d-v1.0.0/portada-worldmap3d-1.0.0.jpg",
+    "video": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/worldmap3d-v1.0.0/portada-worldmap3d-1.0.0.webm",
+    "datosViejos": []
   }
 }
