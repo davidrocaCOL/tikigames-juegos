@@ -1,15 +1,15 @@
 {
   "shredabillion": {
     "nombre": "Shred a Billion",
-    "version": "0.4.0",
-    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/shredabillion-mod-v0.4.0/shredabillion-0.4.0.tikimod",
-    "sha256": "0d57163d3dff9fe233dc64b793d9a2cdd5f1d7894acef87ce1574edf1c3d451c",
-    "peso": 1759481,
+    "version": "0.4.1",
+    "url": "https://github.com/davidrocaCOL/tikigames-juegos/releases/download/shredabillion-mod-v0.4.1/shredabillion-0.4.1.tikimod",
+    "sha256": "8103ff505e7fbff7d7aab78e0922655a9fd39b14b193b55386fdc40cb003a4a8",
+    "peso": 1759661,
     "beta": false,
     "builds": [
       "26674632"
     ],
-    "publicado": "2026-11-24T23:21:56.474Z",
+    "publicado": "2026-11-25T23:12:56.615Z",
     "estreno": "2026-11-22T23:56:15.599Z"
   },
   "vacbotsimulator": {
